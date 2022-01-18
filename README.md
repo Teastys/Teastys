@@ -13,20 +13,6 @@
 <div align="center">
     <a href="https://discord.gg/852608261798101043" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852608261798101043"></a>
 </div>
-<p align="center">
-    <a href="https://github.com/teastys/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/852608261798101043">
-        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href="https://www.youtube.com/c/teastys">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
-    </a>
-    
 </p>
 <hr/>
 <p align="center">
