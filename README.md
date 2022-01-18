@@ -19,7 +19,7 @@
     </a>
     &nbsp;
     <a href="https://discord.com/users/852608261798101043">
-        <img src="./assets/icons/other/discord/" width="25px" />
+        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
     &nbsp;
