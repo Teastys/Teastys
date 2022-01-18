@@ -1,16 +1,42 @@
-### Hi there 👋
+<h2 align="center">
+    <strong>Hello there! I am Teastys</strong>
+</h2>
+<p align="center">
+  If you like my project joining <strong> <a href="https://discord.gg/haber">my Discord server</a></strong>
+<br>
+<br>
+<a href="https://github.com/teastys/">
+        <img src="https://komarev.com/ghpvc/?username=teastys&color=ff0000" />
+  </a> 
+<br>
 
-<!--
-**Teastys/Teastys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://discord.gg/852608261798101043" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852608261798101043"></a>
+</div>
+<p align="center">
+    <a href="https://github.com/teastys/">
+        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/852608261798101043">
+        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href="https://www.youtube.com/c/teastys">
+        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
+    </a>
+    
+</p>
+<hr/>
+<p align="center">
+    <a href="https://github.com/teastys/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=teastys&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+  </a> 
+    </a> 
+  <a href="https://github.com/teastys/">
+        <img src="https://github-readme-stats.vercel.app/api?username=teastys&hide_border=true&text_color=ffffff&bg_color=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&title_color=ff0000&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=ff0000&ring=ff0000&stroke=FFFFFFFF" />
+  </a> 
+<br>
+<br>
+</p>
