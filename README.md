@@ -9,12 +9,6 @@
         <img src="https://komarev.com/ghpvc/?username=teastys&color=ff0000" />
   </a> 
 <br>
-
-<div align="center">
-    <a href="https://discord.gg/852608261798101043" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852608261798101043"></a>
-</div>
-</p>
-<hr/>
 <p align="center">
     <a href="https://github.com/teastys/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=teastys&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
